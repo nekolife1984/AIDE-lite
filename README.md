@@ -42,4 +42,4 @@ cp .agents/templates/task.md .work/tasks/T-0001-example.md
 - [設計原則](.agents/docs/01-principles.md)
 - [課題ファイル形式](.agents/docs/02-task-format.md)
 - [起票から完了まで](.agents/docs/03-workflow.md)
-- [Gitでの変更・共有](.agents/docs/04-git-workflow.md)
+- [変更・共有](.agents/docs/04-change-and-sharing.md)
