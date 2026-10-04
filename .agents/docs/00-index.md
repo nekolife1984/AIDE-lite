@@ -5,6 +5,6 @@
 | [設計原則](01-principles.md) | 正本、配置、ID、状態管理の考え方 |
 | [課題ファイル形式](02-task-format.md) | front matter、本文、プロジェクトファイル |
 | [起票から完了まで](03-workflow.md) | 重複確認、着手、進捗、中断、完了 |
-| [Gitでの変更・共有](04-git-workflow.md) | 差分確認、コミット、共有方法 |
+| [変更・共有](04-change-and-sharing.md) | 作業、レビュー、共有の進め方 |
 | [課題テンプレート](../templates/task.md) | 課題ファイルのひな形 |
 | [プロジェクトテンプレート](../templates/project.md) | 任意のプロジェクトファイルのひな形 |
